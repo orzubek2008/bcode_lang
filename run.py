@@ -1,4 +1,4 @@
-from bcode.interpreter import run_file
+from interpreter import run_file
 import sys
 
 if len(sys.argv) < 2:
